@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_S_Task1</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">You Got In!</string>
+    <string name="Description">Wifi is enabled and connected to the right network \n Bluetooth is enabled\n The Device is charging or at 100 %</string>
+</resources>
